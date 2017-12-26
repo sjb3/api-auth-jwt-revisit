@@ -1,0 +1,11 @@
+{
+  "name": "api-auth-jwt-revisit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.0",
+    "nodemon": "^1.14.3"
+  }
+}
